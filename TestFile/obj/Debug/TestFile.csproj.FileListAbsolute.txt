@@ -1,0 +1,11 @@
+C:\Users\binko\OneDrive\Документы\source\repos\TestFile\TestFile\bin\Debug\TestFile.exe.config
+C:\Users\binko\OneDrive\Документы\source\repos\TestFile\TestFile\bin\Debug\TestFile.exe
+C:\Users\binko\OneDrive\Документы\source\repos\TestFile\TestFile\bin\Debug\TestFile.pdb
+C:\Users\binko\OneDrive\Документы\source\repos\TestFile\TestFile\obj\Debug\TestFile.csproj.AssemblyReference.cache
+C:\Users\binko\OneDrive\Документы\source\repos\TestFile\TestFile\obj\Debug\TestFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\binko\OneDrive\Документы\source\repos\TestFile\TestFile\obj\Debug\TestFile.Form1.resources
+C:\Users\binko\OneDrive\Документы\source\repos\TestFile\TestFile\obj\Debug\TestFile.Properties.Resources.resources
+C:\Users\binko\OneDrive\Документы\source\repos\TestFile\TestFile\obj\Debug\TestFile.csproj.GenerateResource.cache
+C:\Users\binko\OneDrive\Документы\source\repos\TestFile\TestFile\obj\Debug\TestFile.csproj.CoreCompileInputs.cache
+C:\Users\binko\OneDrive\Документы\source\repos\TestFile\TestFile\obj\Debug\TestFile.exe
+C:\Users\binko\OneDrive\Документы\source\repos\TestFile\TestFile\obj\Debug\TestFile.pdb
